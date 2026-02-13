@@ -3,7 +3,7 @@
 
 const fs = require('fs').promises;
 
-/* BONUS 1 */
+//BONUS 1 
 // Test reading a file that does not exist
 
 async function testErrorScenario() {
@@ -19,7 +19,7 @@ async function testErrorScenario() {
 }
 
 
-/* BONUS 2 */
+//BONUS 2
 // Simulate database delay
 
 function simulateDatabaseQuery(delayMs) {
@@ -39,7 +39,7 @@ async function testDatabaseSimulation() {
 }
 
 
-/* BONUS 3 */
+//BONUS 3 
 // Simple workflow with steps
 
 async function complexWorkflow() {
