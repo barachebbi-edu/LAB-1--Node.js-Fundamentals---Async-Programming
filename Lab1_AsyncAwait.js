@@ -1,5 +1,5 @@
 // Lab1_AsyncAwait.js
-// Async/Await pattern (BEST WAY)
+// Async/Await is a cleaner way to handle async operations, built on top of Promises
 
 const fs = require('fs').promises;
 

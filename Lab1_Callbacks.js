@@ -1,4 +1,4 @@
-// Lab1_Callbacks.js - IMPROVED with error handling
+// Lab1_Callbacks.js 
 
 const fs = require('fs');
 
